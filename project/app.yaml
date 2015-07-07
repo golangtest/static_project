@@ -6,7 +6,7 @@ api_version: go1
 handlers:
 
 # if you want to use the dynamic one, comment off the static one
-#- url: /
-#  static_dir: static
+- url: /
+  static_dir: static
 - url: /.*
   script: _go_app
