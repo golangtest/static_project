@@ -1,0 +1,1 @@
+Please change the golang gae sdk path in local.properties.bat

@@ -1,0 +1,1 @@
+set GAE_GO_SDK_PATH=C:\sdks\google_appengine_go\

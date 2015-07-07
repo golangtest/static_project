@@ -1,0 +1,1 @@
+export GAE_GO_SDK_PATH=/home/UserName/sdks/appengine_go/goapp/
